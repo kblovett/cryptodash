@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
+import WelcomeMessage from './WelcomeMessage';
 
 function App() {
-  return <div> Hello World</div>;
+  return <WelcomeMessage />;
 }
 
 export default App;
