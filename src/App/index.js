@@ -3,7 +3,11 @@ import './App.css';
 import WelcomeMessage from './WelcomeMessage';
 
 function App() {
-  return <WelcomeMessage />;
+  return (
+    <div>
+      <WelcomeMessage />
+    </div>
+  );
 }
 
 export default App;
