@@ -10,7 +10,7 @@ const Logo = styled.div`
 const Bar = styled.div`
   display: grid;
   margin-bottom: 40px;
-  grid-template-columns: 180px auto 100px 100px 100px;
+  grid-template-columns: 180px auto 100px 100px;
 `;
 
 const ControlButtonElem = styled.div`
