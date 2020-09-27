@@ -3,7 +3,7 @@ import {
   subtleBoxShadow,
   lightBlueBackground,
   greenBoxShadow,
-  redBoxShadow,
+  //redBoxShadow,
 } from './Styles';
 
 export const Tile = styled.div`
